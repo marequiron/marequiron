@@ -1,0 +1,8 @@
+# One custom command per line. Lines starting with # are ignored.
+# These appear as numbered options in the Custom Command Runner menu.
+# Note: avoid "!" characters in commands.
+
+ipconfig /all
+systeminfo
+tasklist
+echo Hello from a custom command
